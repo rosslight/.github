@@ -1,4 +1,4 @@
-# Rosslight Contributor License Agreement
+# rosslight CLA
 
 In order to clarify the intellectual property license granted with Contributions from any person or entity, rosslight GmbH ("rosslight") must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of rosslight; it does not change your rights to use your own Contributions for any other purpose.
 
