@@ -22,7 +22,12 @@
 -->
 
 ## Checklist
+<!-- Additional checks
+    - No dead code or debug leftovers
+    - Features are properly tested
+-->
+
 - [ ] PR is scoped and not oversized
-- [ ] Documentation updated if needed
-- [ ] No dead code or debug leftovers
-- [ ] CHANGELOG updated (if necessary)
+- [ ] Documentation (and changelog) is updated if needed
+- [ ] CI Pipeline is successful
+- [ ] Self-review was done
