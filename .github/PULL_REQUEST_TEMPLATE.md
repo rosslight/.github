@@ -1,5 +1,5 @@
 ## Summary
-<!-- Explain why this change exists and what problem it solves. Link issues when relevant. -->
+<!-- Explain WHY this change exists and what problem it solves. Link issues when relevant. -->
 
 ## Changes
 <!-- List the key changes. If this fixes a bug, describe the incorrect behavior before and after the correction. -->
